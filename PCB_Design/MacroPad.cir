@@ -1,0 +1,32 @@
+.title KiCad schematic
+.model __D8 D
+.model __D3 D
+.model __D5 D
+.model __D6 D
+.model __D9 D
+.model __D4 D
+.model __D7 D
+.model __D2 D
+.model __D1 D
+S4 __S4
+S1 __S1
+U1 __U1
+D8 Net-_D8-A_ Row_2 __D8
+S9 __S9
+D3 Net-_D3-A_ Row_0 __D3
+D5 Net-_D5-A_ Row_1 __D5
+D6 Net-_D6-A_ Row_1 __D6
+S6 __S6
+D9 Net-_D9-A_ Row_2 __D9
+S5 __S5
+D4 Net-_D4-A_ Row_1 __D4
+S7 __S7
+S8 __S8
+D7 Net-_D7-A_ Row_2 __D7
+D2 Net-_D2-A_ Row_0 __D2
+S3 __S3
+D1 Net-_D1-A_ Row_0 __D1
+S2 __S2
+SW2 __SW2
+SW1 __SW1
+.end
